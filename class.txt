@@ -1,0 +1,8 @@
+
+roll_no    name       m1    m2    m3
+1         Sandeep    100   100    100
+2         Arpit      65     65    60
+3         ifra       75     55    60 
+4         Ayush      65     60    70
+5         riya       65      65    60
+
