@@ -3,3 +3,4 @@ Student_id    S_name      S_section
 12            Arpit        A+
 21            Ifra        A
 22            Ayush       A
+31            yash        A+
